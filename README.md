@@ -12,3 +12,8 @@ Use `make all` to compile the source code into the bin folder.
 * Safe against URL injections.
 * Supports up to one connection.
 * Uses a simple tabular database for serving files.
+
+### To-Do
+
+* Write a JSON parser for POST requests.
+* Add multi-threading for simultaneous connections.
