@@ -13,7 +13,7 @@ Use `make all` to compile the source code into the bin folder.
 * Supports up to one connection.
 * Uses a simple tabular database for serving files.
 
-### To-Do
+### Roadmap
 
 * Write a JSON parser for POST requests.
 * Add multi-threading for simultaneous connections.
