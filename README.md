@@ -1,4 +1,4 @@
-# Idyllib Webserver
+# :seedling: Idyllib Webserver
 
 This repository contains a simple C++ webserver that uses very rudimentary frameworks to serve a simple website with little interactivity.
 You can use the database and the HTTP parser for your own projects in line with the MIT license.
