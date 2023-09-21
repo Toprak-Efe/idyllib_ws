@@ -10,5 +10,6 @@ Use `make all` to compile the source code into the bin folder.
 
 * Post Response
 * Dynamic URL Routing
+* Multiple Connections (Multi-threading)
 * Invalid Request Foolproofing
 * JSON Processing
