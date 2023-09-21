@@ -1,15 +1,14 @@
-Author: Efe (efe.akkilic@ozu.edu.tr)
+# Idyllib Webserver
 
-This repository contains an example C++ webserver that uses very rudimentary frameworks to serve a simple website.
+This repository contains a simple C++ webserver that uses very rudimentary frameworks to serve a simple website with little interactivity.
 You can use the database and the HTTP parser for your own projects in line with the MIT license.
 
-**Building**
-Simply open the repository in your terminal and do ``make all``
+### Building
+Use `make all` to compile the source code into the bin folder.
 
-**Missing Features**
+### Missing Features
 
-1- Post Response
-
-2- Dynamic URL Routing
-
-3- Invalid Request Foolproofing
+* Post Response
+* Dynamic URL Routing
+* Invalid Request Foolproofing
+* JSON Processing
