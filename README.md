@@ -6,10 +6,9 @@ You can use the database and the HTTP parser for your own projects in line with 
 ### Building
 Use `make all` to compile the source code into the bin folder.
 
-### Missing Features
+### Features
 
-* Post Response
-* Dynamic URL Routing
-* Multiple Connections (Multi-threading)
-* Invalid Request Foolproofing
-* JSON Processing
+* Can respond to GET requests.
+* Safe against URL injections.
+* Supports up to one connection.
+* Uses a simple tabular database for serving files.
